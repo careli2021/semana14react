@@ -1,0 +1,7 @@
+Codigo;Alumno;Nota1;Nota2;Nota3
+A001;Juan Perez;15;14;18
+A002;Maria Lopez;17;19;16
+A003;Carlos Diaz;08;12;10
+A004;Ana Torres;13;14;15
+A005;Luis Ramos;09;10;11
+A006;Valeria Soto;20;19;18
